@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_script">
+    <sys_script action="DELETE">
+        <abort_action>false</abort_action>
+        <access>package_private</access>
+        <action_delete>false</action_delete>
+        <action_insert>true</action_insert>
+        <action_query>false</action_query>
+        <action_update>true</action_update>
+        <active>true</active>
+        <add_message>false</add_message>
+        <advanced>true</advanced>
+        <change_fields>false</change_fields>
+        <client_callable>false</client_callable>
+        <collection>x_58872_needit_needit</collection>
+        <condition/>
+        <description/>
+        <execute_function>false</execute_function>
+        <filter_condition/>
+        <is_rest>false</is_rest>
+        <message/>
+        <name>NeedIt Debugging Practice</name>
+        <order>100</order>
+        <priority>100</priority>
+        <rest_method/>
+        <rest_method_text/>
+        <rest_service/>
+        <rest_service_text/>
+        <rest_variables/>
+        <role_conditions/>
+        <script/>
+        <sys_class_name>sys_script</sys_class_name>
+        <sys_created_by>adalberto.berno</sys_created_by>
+        <sys_created_on>2019-09-24 19:49:19</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>5a6c7116db440010c40928df4b9619bd</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>NeedIt Debugging Practice</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_script_5a6c7116db440010c40928df4b9619bd</sys_update_name>
+        <sys_updated_by>adalberto.berno</sys_updated_by>
+        <sys_updated_on>2019-09-24 20:04:53</sys_updated_on>
+        <template/>
+        <when>before</when>
+    </sys_script>
+    <sys_translated_text action="delete_multiple" query="documentkey=5a6c7116db440010c40928df4b9619bd"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>c5f6f4b8db8c7b4052dd2f17d496193c</instance_id>
+        <instance_name>dev74505</instance_name>
+        <name>sys_script_5a6c7116db440010c40928df4b9619bd</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_script"><sys_script action="INSERT_OR_UPDATE"><abort_action>false</abort_action><access>package_private</access><action_delete>false</action_delete><action_insert>true</action_insert><action_query>false</action_query><action_update>true</action_update><active>true</active><add_message>false</add_message><advanced>true</advanced><change_fields>false</change_fields><client_callable>false</client_callable><collection>x_58872_needit_needit</collection><condition/><description/><execute_function>false</execute_function><filter_condition/><is_rest>false</is_rest><message/><name>NeedIt Debugging Practice</name><order>100</order><priority>100</priority><rest_method/><rest_method_text/><rest_service/><rest_service_text/><rest_variables/><role_conditions/><script/><sys_class_name>sys_script</sys_class_name><sys_created_by>adalberto.berno</sys_created_by><sys_created_on>2019-09-24 19:49:19</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>5a6c7116db440010c40928df4b9619bd</sys_id><sys_mod_count>2</sys_mod_count><sys_name>NeedIt Debugging Practice</sys_name><sys_overrides/><sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_update_name>sys_script_5a6c7116db440010c40928df4b9619bd</sys_update_name><sys_updated_by>adalberto.berno</sys_updated_by><sys_updated_on>2019-09-24 20:04:53</sys_updated_on><template/><when>before</when></sys_script><sys_translated_text action="delete_multiple" query="documentkey=5a6c7116db440010c40928df4b9619bd"/></record_update>]]></payload>
+        <payload_hash>2125356925</payload_hash>
+        <record_name>NeedIt Debugging Practice</record_name>
+        <reverted_from/>
+        <source>bcf380c2dbc00010c40928df4b9619c6</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>adalberto.berno</sys_created_by>
+        <sys_created_on>2019-09-24 20:04:53</sys_created_on>
+        <sys_id>74308e5adb440010c40928df4b9619ad</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>16d64e071730000001</sys_recorded_at>
+        <sys_updated_by>adalberto.berno</sys_updated_by>
+        <sys_updated_on>2019-09-24 20:04:53</sys_updated_on>
+        <type>Business Rule</type>
+        <update_guid>7c308e5a584400100e5b0bfbba2c02ac</update_guid>
+        <update_guid_history>7c308e5a584400100e5b0bfbba2c02ac:2125356925,fbcc7116b24400106c5ea00adee6a4c5:-1441696963,f0ac7196214400103b9efed886852992:-1917575078</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>adalberto.berno</sys_created_by>
+        <sys_created_on>2019-09-24 20:06:25</sys_created_on>
+        <sys_db_object display_value="" name="sys_script">sys_script</sys_db_object>
+        <sys_id>2863eaeaeb0c445885cf143c6233d890</sys_id>
+        <sys_metadata>5a6c7116db440010c40928df4b9619bd</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>NeedIt Debugging Practice</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent display_value="NeedIt">45007fcd0fa83200cd674f8ce1050ebc</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>sys_script_5a6c7116db440010c40928df4b9619bd</sys_update_name>
+        <sys_update_version display_value="sys_script_5a6c7116db440010c40928df4b9619bd">74308e5adb440010c40928df4b9619ad</sys_update_version>
+        <sys_updated_by>adalberto.berno</sys_updated_by>
+        <sys_updated_on>2019-09-24 20:06:25</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
